@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/jerky_noah" target="blank"><img src="https://img.shields.io/twitter/follow/jerky_noah?logo=twitter&style=for-the-badge" alt="jerky_noah" /></a> </p>
 
-- 🔭 I’m currently working on **React.js, Node.js**
+- 🔭 I’m currently working on **DataStructure, Algorithms, Problem Solving, React.js, Node.js**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js, Node.js and MongoDB**
 
-- 💬 Ask me about **Web , MERN**
+- 💬 Ask me about **DataStructure & Algorithms, Problem Solving technique, C++ STL, Web , MERN**
 
 - 📫 How to reach me **bkrbinay2002@gmail.com**
 
