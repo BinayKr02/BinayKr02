@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Binay </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+
 - 🔭 I’m currently working on **DataStructure, Algorithms, Problem Solving, React.js, Node.js**
 
 - 🌱 I’m currently learning **React.js, Node.js and MongoDB**
