@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Binay </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there, It's Binay</h1>
+<h3 align="center">A passionate developer from India</h3>
 
 
 - 🔭 I’m currently working on **DataStructure, Algorithms, Problem Solving, React.js, Node.js**
 
 - 🌱 I’m currently learning **React.js, Node.js and MongoDB**
 
-- 💬 Ask me about **DataStructure & Algorithms, Problem Solving technique, C++ STL, Web , MERN**
+- 💬 Ask me about **DataStructure & Algorithms, Problem Solving technique, C++ STL, SQL, NoSQL and Web development**
 
 - 📫 How to reach me **bkrbinay2002@gmail.com**
 
