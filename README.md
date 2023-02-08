@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bkrbinay2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xoKJZGq8NAZFxgMv3bJ4YOzonZ2g2YAz/view](https://drive.google.com/file/d/1xoKJZGq8NAZFxgMv3bJ4YOzonZ2g2YAz/view1)
+- 📄 Know about my experiences [MyResume](https://drive.google.com/file/d/1xoKJZGq8NAZFxgMv3bJ4YOzonZ2g2YAz/view)
 
 - ⚡ Fun fact **I sing sometimes**
 
